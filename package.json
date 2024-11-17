@@ -1,0 +1,12 @@
+{
+  "name": "assassignment",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+   "start": "dist/project.js",
+  "dev": "ts-node src/product.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
