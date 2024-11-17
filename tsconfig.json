@@ -7,7 +7,7 @@
       "esModuleInterop": true,
       "skipLibCheck": true
     },
-    "include": ["src/**/*", "src/product.ts"],
+    "include": ["src/**/*", "src/task4_5.ts"],
     "exclude": ["node_modules", "dist"]
   }
   

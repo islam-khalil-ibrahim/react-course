@@ -36,7 +36,7 @@ npm run dev
 ## Project Structure
 ```
 ├── src/          # TypeScript source files
-│   ├── index.ts  # Main entry file
+│   ├── task4_5.ts  # Main entry file
 │   └── ...       # Other TypeScript files
 ├── dist/         # Compiled JavaScript files (generated after build)
 ├── node_modules/ # Installed dependencies

@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "tsc",
-   "start": "dist/project.js",
-  "dev": "ts-node src/product.ts"
+   "start": "dist/task4_5.js",
+  "dev": "ts-node src/task4_5.ts"
   },
   "author": "",
   "license": "ISC",
