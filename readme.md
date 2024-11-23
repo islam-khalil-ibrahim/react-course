@@ -7,6 +7,10 @@ code .
 ### To show Tasks open terminal in react-course folder
 # For task 4 & 5 
 ```
+code .
+```
+open terminal in vs
+```
 npm run build          
 npm run dev
 ```
