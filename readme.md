@@ -6,13 +6,7 @@ cd react-tutorial-for-beginners
 code .
 ```
 ### To show Tasks open terminal in assignment folder
-```bash
-cd tasks
-code .
-```
-### for Each folder you have read me file to show steps 
-=======
-=======
+
 # For task 4 & 5 
 # TypeScript Project Setup
 
