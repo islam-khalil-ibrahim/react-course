@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ### To show react tutorial for beginners open terminal in assignment folder 
 ```bash
 cd react-tutorial-for-beginners
