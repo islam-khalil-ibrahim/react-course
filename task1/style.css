@@ -1,0 +1,32 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.Product-list {
+  width: 300px;
+  height: 30vh;
+}
+.Product-list h1 {
+  text-align: center;
+  margin-block: 20px;
+}
+.Product-list ul {
+  list-style-type: none;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+.Product-list ul li {
+  font-weight: bold;
+  color: green;
+  padding: 10px 0;
+}
