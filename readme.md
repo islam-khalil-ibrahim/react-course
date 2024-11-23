@@ -1,12 +1,15 @@
 
-### To show react tutorial for beginners open terminal in assignment folder 
+### To show react tutorial for beginners open terminal in react-course folder 
 ```bash
 cd react-tutorial-for-beginners
 code .
 ```
-### To show Tasks open terminal in assignment folder
-
+### To show Tasks open terminal in react-course folder
 # For task 4 & 5 
+```
+npm run build          
+npm run dev
+```
 # TypeScript Project Setup
 
 This repository contains a project written in TypeScript. Follow the instructions below to set up, run, and work with this project.
